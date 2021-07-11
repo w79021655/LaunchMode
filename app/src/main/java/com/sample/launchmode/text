@@ -1,0 +1,4 @@
+standard:創建新的頁面。
+singleTop:自己開啟自己會複用舊的頁面，其餘皆為創建新的頁面。
+singleTask:開啟過一次以上的頁面會複用舊的頁面，回到Main後會清棧。
+singleInstance:開啟過一次以上的頁面會複用舊的頁面，且會建立新的Task。
